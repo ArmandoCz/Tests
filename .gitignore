@@ -1,0 +1,6 @@
+data/*
+__pycache__
+images/*
+SAM_checkpoint/*
+sounds/*
+*.log
